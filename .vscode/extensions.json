@@ -1,0 +1,7 @@
+{
+  "extensions": [
+    "dbaeumer.vscode-eslint",
+    "eseom.nunjucks-template",
+    "esbenp.prettier-vscode"
+  ]
+}

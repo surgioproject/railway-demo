@@ -1,0 +1,18 @@
+{
+  "name": "railway-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "update": "surgio generate",
+    "start": "node server.js",
+    "lint": "eslint . --ext .js",
+    "format": "prettier --write ."
+  },
+  "engine": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@surgio/gateway": "2.0.0",
+    "surgio": "3.0.0"
+  }
+}
