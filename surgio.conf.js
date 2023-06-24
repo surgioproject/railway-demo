@@ -107,7 +107,7 @@ module.exports = {
   /**
    * 订阅地址的前缀部分，以 / 结尾
    */
-  urlBase: 'https://example.com/',
+  urlBase: 'https://railway-demo-production-b14f.up.railway.app/get-artifact/',
   gateway: {
     auth: true,
     accessToken: 'surgio',
